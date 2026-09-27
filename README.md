@@ -1,2 +1,5 @@
-# natgsimons.github.io
+# Why am I taking Cultural Heritage Data and Social Engagement?
+You may wonder why a Biology Pre-Veterinary student would have an interest in and find a humanities course about cultural heritage data and the roles that social engagement plays in it useful. This course introduces students to projects, techniques, and technologies that can be applied to science fields as well. We learn how cultural heritage is relevant to the ways that data is stored, preserved, and shared with the public. We also learn the importance of collaboration and social engagement in making projects meaningful. These aspects are present in biology-related careers and will be very insightful when I encounter future projects. 
 
+## What Can Cultural Heritage Data Teach?
+There are many ways to process and analyze data; this course introduces students to the importance of finding meaning in big data. It also introduces students to various examples of programs and systems that have been created to analyze and sort this data. As well, as design flaws to be aware of and the potential to create biased data.
