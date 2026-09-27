@@ -3,3 +3,6 @@ You may wonder why a Biology Pre-Veterinary student would have an interest in an
 
 ## What Can Cultural Heritage Data Teach?
 There are many ways to process and analyze data; this course introduces students to the importance of finding meaning in big data. It also introduces students to various examples of programs and systems that have been created to analyze and sort this data. As well, as design flaws to be aware of and the potential to create biased data.
+
+## How does Social Engagement Relate to Biology?
+Social engagement is a necessary tool for educating the public, raising awareness, and making projects meaningful through collaboration and outreach. Many areas of study and career fields within Biology require social engagement. The animal welfare sector relies on engagement with the community to keep up with the flow of animals in and out of the shelter system. Public education seeks to further improve shelter and rescue conditions and provide knowledge to better equip citizens to handle situations with animals. Within wildlife preservation, social engagement is crucial to raising funds to work on and maintain parks and projects. 
